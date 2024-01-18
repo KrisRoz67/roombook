@@ -1,10 +1,13 @@
 # User stories for room booking system
 
 ## Customer user stories
+
+- As a customer, I would like to register, to be able to all actions
 - As a customer, I would like to see all available rooms in the hotel  for given date , to make reservation
 - As a customer, I would like to make a room reservation for a given date
 - As a customer, I would like to cancel a room reservation
 - As a customer, I would like to change room reservation date
+
 
 ## Administrator user stories
 - As an administrator, I would like to see all room reservations
