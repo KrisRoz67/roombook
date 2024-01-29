@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/roombook_db
+    username: roombook_user
+    password: roombook_pw
+  flyway:
+    locations: classpath:/db/tables,  classpath:/db/data
+
+springdoc:
+  api-docs:
+    path: /docs
+swagger-ui:
+    path: /docs/swagger-ui.html
